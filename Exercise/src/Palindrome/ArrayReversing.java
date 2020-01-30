@@ -16,7 +16,7 @@ public class ArrayReversing {
 		for (int i : re) {
 			System.out.print(i + " ");
 		}
-		System.out.println();
+		System.out.println("");
 
 	}
 
