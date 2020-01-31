@@ -1,6 +1,6 @@
 package Palindrome;
 
-public class GFG {
+public class PrimeNumber {
 
 	// function check whether a number
 	// is prime or not
@@ -19,7 +19,7 @@ public class GFG {
 
 	/* Driver program */
 	public static void main(String[] args) {
-		if (isPrime(4))
+		if (isPrime(5))
 			System.out.println(" true");
 
 		else
