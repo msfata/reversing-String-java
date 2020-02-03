@@ -19,7 +19,7 @@ public class PrimeNumber {
 
 	/* Driver program */
 	public static void main(String[] args) {
-		if (isPrime(5))
+		if (isPrime(14))
 			System.out.println(" true");
 
 		else
